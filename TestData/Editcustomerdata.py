@@ -1,0 +1,1 @@
+Customerlist=["arthur_holmes@nopCommerce.com", "james_pan@nopCommerce.com", ]
